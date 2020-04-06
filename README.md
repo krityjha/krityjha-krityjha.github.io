@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 > March, 2016: If you're on an old version of Jekyll Now and run into a) build warnings or b) syntax highlighting issues caused by [Jekyll 3 and GitHub Pages updates](https://github.com/blog/2100-github-pages-now-faster-and-simpler-with-jekyll-3-0), just :sparkles:[update your _config.yml](https://github.com/barryclark/jekyll-now/pull/445/files):sparkles: and you'll be set!
 
 # Jekyll Now
@@ -122,3 +123,6 @@ I want to keep Jekyll Now as minimal as possible. Every line of code should be o
 =======
 This is the blog site for Krity Jha. This is hosting a series of blog written by me.
 >>>>>>> 00376a9576829e5292b26b81e969a40207fb4529
+=======
+# krityjha-krityjha.github.io
+>>>>>>> 63d5a6bedece6a63ccb7fbebc761901887931c13
