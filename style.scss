@@ -18,18 +18,13 @@ html {
 }
 
 body {
-<<<<<<< HEAD
-        background-image: url(images/background.jpeg);
+    background-image: url(images/background.jpeg);
     font: 18px/1.4 Helvetica, Arial, sans-serif;
     color: #f1f1f1;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-=======
-	background: $white;
-  font: 18px/1.4 $helvetica;
-  color: $darkGray;
->>>>>>> 00376a9576829e5292b26b81e969a40207fb4529
+
 }
 
 .container {
@@ -41,11 +36,8 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
-<<<<<<< HEAD
+
   color: #f0f0f0;
-=======
-  color: $darkerGray;
->>>>>>> 00376a9576829e5292b26b81e969a40207fb4529
   font-weight: bold;
 
   line-height: 1.7;
@@ -60,11 +52,7 @@ h1, h2, h3, h4, h5, h6 {
 h1 {
   font-size: 30px;
   a {
-<<<<<<< HEAD
     color: #eeeeee;
-=======
-    color: inherit;
->>>>>>> 00376a9576829e5292b26b81e969a40207fb4529
   }
 }
 
@@ -219,11 +207,7 @@ img {
 
 .site-description {
   margin: -5px 0 0 0;
-<<<<<<< HEAD
   color: #f0f0f0;
-=======
-  color: $gray;
->>>>>>> 00376a9576829e5292b26b81e969a40207fb4529
   font-size: 16px;
 
   @include mobile {
@@ -246,11 +230,7 @@ nav {
 
   a {
     margin-left: 20px;
-<<<<<<< HEAD
     color: #eeeeee;
-=======
-    color: $darkGray;
->>>>>>> 00376a9576829e5292b26b81e969a40207fb4529
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
