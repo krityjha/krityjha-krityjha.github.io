@@ -3,11 +3,28 @@ layout: default
 ---
 
 <article class="post">
-  <h1>{{ page.title }}</h1>
+
+<div class="row">
+<div class="col-sm-3"><applause-button  color="white" style="width: 50px; height: 50px;"/>
+</div>
+
+
+<div class="col-sm-9">  <h1>{{ page.title }}</h1>
+
+</div>
+
+
+</div>
+
+
+
 
   <div class="entry">
     {{ content }}
   </div>
+
+
+
 
   <div class="date">
     Written on {{ page.date | date: "%B %e, %Y" }}
